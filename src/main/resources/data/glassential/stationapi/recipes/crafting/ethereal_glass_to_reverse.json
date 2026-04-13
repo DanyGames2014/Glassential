@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "glassential:ethereal_glass"
+    }
+  ],
+  "result": {
+    "item": "glassential:reverse_ethereal_glass"
+  }
+}

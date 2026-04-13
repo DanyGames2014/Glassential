@@ -1,0 +1,9 @@
+tile.glassential.clear_glass.name=Clear Glass
+tile.glassential.luminous_glass.name=Luminous Glass
+tile.glassential.redstone_glass.name=Redstone Glass
+tile.glassential.dark_glass.name=Dark Glass
+tile.glassential.ghostly_glass.name=Ghostly Glass
+tile.glassential.ethereal_glass.name=Ethereal Glass
+tile.glassential.reverse_ethereal_glass.name=Reverse Ethereal Glass
+
+item.glassential.iron_glass_cutter.name=Glass Cutter
