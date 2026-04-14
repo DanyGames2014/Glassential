@@ -22,6 +22,7 @@
     "stationapi:event_bus_server": [
     ]
   },
+  "accessWidener": "glassential.accesswidener",
   "mixins": [
     "glassential.mixins.json"
   ],

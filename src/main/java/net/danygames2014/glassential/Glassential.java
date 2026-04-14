@@ -1,9 +1,11 @@
 package net.danygames2014.glassential;
 
+import javafx.scene.paint.Material;
 import net.danygames2014.glassential.block.*;
 import net.mine_diver.unsafeevents.listener.EventListener;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
+import net.minecraft.item.ToolMaterial;
 import net.modificationstation.stationapi.api.event.registry.BlockRegistryEvent;
 import net.modificationstation.stationapi.api.event.registry.ItemRegistryEvent;
 import net.modificationstation.stationapi.api.mod.entrypoint.Entrypoint;
@@ -37,6 +39,6 @@ public class Glassential {
     
     @EventListener
     public void registerItems(ItemRegistryEvent event) {
-        ironGlassCutter = new TemplateItem(NAMESPACE.id("iron_glass_cutter")).setTranslationKey(NAMESPACE, "iron_glass_cutter");
+        ironGlassCutter = new GlassCutterItem(NAMESPACE.id("iron_glass_cutter"), ToolMaterial.IRON).setTranslationKey(NAMESPACE, "iron_glass_cutter");
     }
 }
