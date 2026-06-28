@@ -4,7 +4,7 @@
         "type": "ctm",
         "layer": "CUTOUT",
         "textures": [
-            "glassential:blocks/redstone-ctm"
+            "glassential:block/redstone-ctm"
         ]
     }
 }

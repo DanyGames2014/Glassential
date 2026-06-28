@@ -4,7 +4,7 @@
         "type": "ctm",
         "layer": "CUTOUT",
         "textures": [
-            "glassential:blocks/dark-ctm"
+            "glassential:block/dark-ctm"
         ]
     }
 }
