@@ -1,6 +1,5 @@
 package net.danygames2014.glassential;
 
-import javafx.scene.paint.Material;
 import net.danygames2014.glassential.block.*;
 import net.mine_diver.unsafeevents.listener.EventListener;
 import net.minecraft.block.Block;
@@ -9,7 +8,6 @@ import net.minecraft.item.ToolMaterial;
 import net.modificationstation.stationapi.api.event.registry.BlockRegistryEvent;
 import net.modificationstation.stationapi.api.event.registry.ItemRegistryEvent;
 import net.modificationstation.stationapi.api.mod.entrypoint.Entrypoint;
-import net.modificationstation.stationapi.api.template.item.TemplateItem;
 import net.modificationstation.stationapi.api.util.Namespace;
 
 public class Glassential {
