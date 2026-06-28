@@ -1,1 +1,1 @@
-- Initial release
+* Fix paths for compat with Connected Textures Mod Beta
